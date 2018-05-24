@@ -1,6 +1,6 @@
 # Puzzle-Hunt
 
-The order of the fills
+The order of the files
 
 1- swords1 blue
 
